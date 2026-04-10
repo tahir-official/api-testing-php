@@ -47,7 +47,7 @@ function decrypt($encryptedData) {
  * ============================
  */
 function encrypt_replace($payload) {
-    $url = "https://wethreeinfotech.com/api/api.php?action=encryptdata";
+    $url = "https://abc.com/aes/encryptdata";
 
     $postData = [
         "data" => $payload,
@@ -83,7 +83,7 @@ function encrypt_replace($payload) {
  * ============================
  */
 function decrypta_replace($encryptedString) {
-    $url = "https://wethreeinfotech.com/api/api.php?action=decryptdata";
+    $url = "https://abc.com/aes/decryptdata";
 
     $postData = [
         "data" => $encryptedString,
