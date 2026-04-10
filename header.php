@@ -1,0 +1,1 @@
+<a href="<?php echo BASE_URL;?>">Testimonial</a> | <a href="<?php echo BASE_URL;?>/knowledge-hub.php">Knowledge Hub</a>
